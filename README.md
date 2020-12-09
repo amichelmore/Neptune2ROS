@@ -1,2 +1,2 @@
 # Neptune2ROS
-At the moment only the launch files work.
+Only the launch files work.
